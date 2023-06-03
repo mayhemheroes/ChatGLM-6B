@@ -1,0 +1,5 @@
+project: chatglm-6b
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme @@
